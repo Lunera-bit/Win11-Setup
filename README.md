@@ -13,6 +13,16 @@ Este repositorio contiene archivos de configuración y utilidades para mi entorn
 
 ## Estructura y propósito
 
+| Entrada | Herramienta |
+|---------|-------------|
+| **Status Bar** | YASB |
+| **Window Manager** | GlazeWM |
+| **Text Editor** | VSCode |
+| **Terminal** | PowerShell 7 |
+| **System Info** | FastFetch |
+
+### Detalles por carpeta
+
 - **FastFetch/**: herramienta rápida para mostrar información del sistema.
   - `ascii.txt`: arte ASCII usado por FastFetch.
   - `config.jsonc`: configuración de FastFetch.
@@ -63,3 +73,5 @@ Este repositorio contiene archivos de configuración y utilidades para mi entorn
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
